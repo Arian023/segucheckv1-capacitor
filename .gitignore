@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+android
+/build
+/.svelte-kit
+/package
+/src/hooks.ts
+/src/loshooks.ts
+/src/loshooks3.ts
+.env
+/static
