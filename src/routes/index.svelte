@@ -18,13 +18,13 @@
 		<h3 class="lead col-md-8">
 			Lleva el control de tus credenciales, permisos y checklists en tu bolsillo
 		</h3>
-		<div class="m-5 g-2">
-			<a href="/app" class="btn btn-primary btn-lg px-4 mx-2"> Ir al menú </a>
+		<div class="m-3 g-2">
+			<a href="/app" class="btn btn-primary btn-lg px-4 mx-1"> Ir al menú </a>
 			<!-- Implementar login
 				<button on:click={() => (modalOpen = !modalOpen)} class="btn btn-primary btn-lg px-4 mx-2">
 				Iniciar sesión
 			</button> -->
-			<a href="/acerca" class="btn btn-secondary btn-lg px-4 mx-2"> Acerca de </a>
+			<a href="/acerca" class="btn btn-secondary btn-lg px-4 mx-1"> Acerca de </a>
 		</div>
 	</div>
 </header>
