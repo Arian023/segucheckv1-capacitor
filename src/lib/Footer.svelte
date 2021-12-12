@@ -66,7 +66,4 @@
 	footer {
 		max-height: 100%;
 	}
-	.disabled {
-		pointer-events: none;
-	}
 </style>

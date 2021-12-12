@@ -107,9 +107,9 @@
 			<DropdownMenu end>
 				<DropdownItem href="/app/perfil"><i class="fas fa-user me-2" />Perfil</DropdownItem>
 				<DropdownItem><i class="fas fa-cog me-2" />Ajustes</DropdownItem>
-				<DropdownItem href="/ayuda"><i class="fas fa-question-circle me-2" />Ayuda</DropdownItem>
+				<DropdownItem><i class="fas fa-question-circle me-2" />Ayuda</DropdownItem>
 				<DropdownItem divider />
-				<DropdownItem href="/salir"><i class="fas fa-sign-out-alt me-2" />Salir</DropdownItem>
+				<DropdownItem><i class="fas fa-sign-out-alt me-2" />Salir</DropdownItem>
 			</DropdownMenu>
 		</Dropdown>
 	</Navbar>

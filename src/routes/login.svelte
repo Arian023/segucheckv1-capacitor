@@ -23,15 +23,6 @@
 		Label
 	} from 'sveltestrap';
 
-	// Imports y variables para submit:
-	import { session } from '$app/stores';
-	import { goto } from '$app/navigation';
-	import { emitWarning } from 'process';
-	import type { subscribe } from 'svelte/internal';
-	export let message = '';
-	export let status = '';
-	export let error = '';
-
 	// Validación de formularios: https://svelte-forms-lib-sapper-docs.vercel.app/
 	/* import { createForm } from 'svelte-forms-lib';
 	import * as yup from 'yup';
