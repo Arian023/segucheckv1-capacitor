@@ -15,7 +15,7 @@
 		nationality: 'Argentina',
 		studyLevel: 'Universitario completo',
 		degree: 'Licenciado',
-		profilePic: 'https://avatars.dicebear.com/api/micah/1234.svg',
+		profilePic: '/img/usr-await.png',
 		roles: [
 			{ rol_id: 1, rolDescription: 'Gestor documental' },
 			{ rol_id: 2, rolDescription: 'Personal de seguridad' }

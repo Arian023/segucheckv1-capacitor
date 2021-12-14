@@ -13,8 +13,7 @@
 	let isClicked = false;
 	// Generar link con ID usuario + token de acceso temporal:
 	const token = '1234';
-	const urlToProfile =
-		'http://localhost:3000/panel/operarios/' + userDetails.user_id + '?auth=' + token;
+	const urlToProfile = 'http://localhost:3000/ver?user=' + userDetails.user_id + '&token=' + token;
 	// 	Versión para Google Charts:
 	const imageQR = 'https://chart.googleapis.com/chart?cht=qr&chs=500x500&chld=L|2&chl='+encodeURIComponent(urlToProfile);
 	// 
